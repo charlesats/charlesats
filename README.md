@@ -1,7 +1,6 @@
 ### Olá, Sou o Charles!!
 
 Graduando em Engenharia da Computação pela Universidade Federal de Ouro Preto.
-Gosto de desenvolvimento backend, 
 
 <div>
   <a href="https://github.com/charlesats">
