@@ -1,6 +1,7 @@
 ### Olá, Sou o Charles!!
 
-Graduando em Engenharia da Computação pela Universidade Federal de Ouro Preto.
+Graduando em Engenharia da Computação pela Universidade Federal de Ouro Preto.\
+Atualmente estou aprendendo desenvolvimento Web e C#.
 
 <div>
   <a href="https://github.com/charlesats">
